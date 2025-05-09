@@ -12,3 +12,18 @@ Our group consists of Alex, Tyler, Colin, and I.
 <p>Play with Several other players on a dynamic everchanging island with full day/night cycles.</p>
 <h2>Gun Play</h2>
 <p><b>We havent finsihed gun play yet, when we add it this page will be updated.</b></p>
+
+ <h2>Key projects</h2>
+ 
+ <h3> BigShell </h3>
+ <p> BigShell is a command line interface that allows for the usage of commands to prcoess entered information thyat communicates with the operating system.
+ <b>https://github.com/Cloponaclock1/BigShell </b>
+ <h3>Microservice Project</h3>
+ <p> I created a microsrvice to handle logging in/out verfying credentials agaisnt a database using PHP. The microservice acts independtly to from backend software allowing for better fault isolation and scalability. Better scalibility is the result of being seperated from the other parts of the software. Included is a database interaction chart to explain how it communicates with the client, server, and database. </p>
+ <b>https://github.com/Cloponaclock1/mircoservice</b>
+
+<h2>Open Source Contributions</h2>
+<h3>Scikit-learn</h3>
+<b>https://github.com/scikit-learn/scikit-learn</b>
+<p>Scikit-learn is a machine learning python module that was first started as a Google Summer of Code project.</p>
+<p>I updated some out of data documentation resulting from out of date functions. </p>
